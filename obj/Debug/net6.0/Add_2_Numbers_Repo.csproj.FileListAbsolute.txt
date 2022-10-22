@@ -1,0 +1,15 @@
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/Add2Numbers_LocalRev/Add_2_Numbers_Repo/bin/Debug/net6.0/Add_2_Numbers_Repo
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/Add2Numbers_LocalRev/Add_2_Numbers_Repo/bin/Debug/net6.0/Add_2_Numbers_Repo.deps.json
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/Add2Numbers_LocalRev/Add_2_Numbers_Repo/bin/Debug/net6.0/Add_2_Numbers_Repo.runtimeconfig.json
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/Add2Numbers_LocalRev/Add_2_Numbers_Repo/bin/Debug/net6.0/Add_2_Numbers_Repo.dll
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/Add2Numbers_LocalRev/Add_2_Numbers_Repo/bin/Debug/net6.0/Add_2_Numbers_Repo.pdb
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/Add2Numbers_LocalRev/Add_2_Numbers_Repo/obj/Debug/net6.0/Add_2_Numbers_Repo.csproj.AssemblyReference.cache
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/Add2Numbers_LocalRev/Add_2_Numbers_Repo/obj/Debug/net6.0/Add_2_Numbers_Repo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/Add2Numbers_LocalRev/Add_2_Numbers_Repo/obj/Debug/net6.0/Add_2_Numbers_Repo.AssemblyInfoInputs.cache
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/Add2Numbers_LocalRev/Add_2_Numbers_Repo/obj/Debug/net6.0/Add_2_Numbers_Repo.AssemblyInfo.cs
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/Add2Numbers_LocalRev/Add_2_Numbers_Repo/obj/Debug/net6.0/Add_2_Numbers_Repo.csproj.CoreCompileInputs.cache
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/Add2Numbers_LocalRev/Add_2_Numbers_Repo/obj/Debug/net6.0/Add_2_Numbers_Repo.dll
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/Add2Numbers_LocalRev/Add_2_Numbers_Repo/obj/Debug/net6.0/refint/Add_2_Numbers_Repo.dll
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/Add2Numbers_LocalRev/Add_2_Numbers_Repo/obj/Debug/net6.0/Add_2_Numbers_Repo.pdb
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/Add2Numbers_LocalRev/Add_2_Numbers_Repo/obj/Debug/net6.0/Add_2_Numbers_Repo.genruntimeconfig.cache
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/Add2Numbers_LocalRev/Add_2_Numbers_Repo/obj/Debug/net6.0/ref/Add_2_Numbers_Repo.dll
