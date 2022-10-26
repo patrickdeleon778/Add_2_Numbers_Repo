@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/Add2Numbers_LocalRev/Add_2_Numbers_Repo/Add_2_Numbers_Repo.csproj": {}
+    "/Users/michellemalfabon/Desktop/Codestack/Combine/Pulls/Add_2_Numbers_Repo/Add_2_Numbers_Repo.csproj": {}
   },
   "projects": {
-    "/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/Add2Numbers_LocalRev/Add_2_Numbers_Repo/Add_2_Numbers_Repo.csproj": {
+    "/Users/michellemalfabon/Desktop/Codestack/Combine/Pulls/Add_2_Numbers_Repo/Add_2_Numbers_Repo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/Add2Numbers_LocalRev/Add_2_Numbers_Repo/Add_2_Numbers_Repo.csproj",
+        "projectUniqueName": "/Users/michellemalfabon/Desktop/Codestack/Combine/Pulls/Add_2_Numbers_Repo/Add_2_Numbers_Repo.csproj",
         "projectName": "Add_2_Numbers_Repo",
-        "projectPath": "/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/Add2Numbers_LocalRev/Add_2_Numbers_Repo/Add_2_Numbers_Repo.csproj",
-        "packagesPath": "/Users/patrickdeleon7/.nuget/packages/",
-        "outputPath": "/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/Add2Numbers_LocalRev/Add_2_Numbers_Repo/obj/",
+        "projectPath": "/Users/michellemalfabon/Desktop/Codestack/Combine/Pulls/Add_2_Numbers_Repo/Add_2_Numbers_Repo.csproj",
+        "packagesPath": "/Users/michellemalfabon/.nuget/packages/",
+        "outputPath": "/Users/michellemalfabon/Desktop/Codestack/Combine/Pulls/Add_2_Numbers_Repo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/patrickdeleon7/.nuget/NuGet/NuGet.Config"
+          "/Users/michellemalfabon/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

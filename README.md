@@ -1,9 +1,9 @@
 // ================== ADD 2 NUMBERS _ GIT HUB ==================== //
 
-Name:
+Name: Patrick 
 
-Date:
+Date: 10/25/22
 
-Peer Reviewer:
+Peer Reviewer: Michelle M. 
 
-Peer Comment:
+Peer Comment: Works well, good job. 
